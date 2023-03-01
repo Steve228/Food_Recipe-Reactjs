@@ -1,3 +1,21 @@
+# Project Description
+It’s a Recipe App that lets you search for recipes and also show you some in the homepage if you’re interested in being surprised.
+API: Spoonacular api
+
+
+## Screenshots
+
+### Home page
+![image](https://user-images.githubusercontent.com/75305063/222227126-9d84749d-2379-4251-93bb-3df4c191d555.png)
+![image](https://user-images.githubusercontent.com/75305063/222227329-f2a955a5-4897-465c-9f7b-4c10a85bc3af.png)
+
+
+### Item Search
+
+![image](https://user-images.githubusercontent.com/75305063/222227580-c069d5d4-a298-4e0b-abab-1b1735e895b4.png)
+![image](https://user-images.githubusercontent.com/75305063/222227819-d1370bf3-f7b9-49a9-916b-65754ecb2a28.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
